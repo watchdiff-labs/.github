@@ -11,8 +11,8 @@ WatchDiff Labs provides developer tools for integrating WatchDiff across languag
 | Python | [`watchdiff-core`](https://pypi.org/project/watchdiff-core/) | Available |
 | JavaScript / TypeScript | [`watchdiff-core`](https://www.npmjs.com/package/watchdiff-core) | Available |
 | PHP | [`watchdiff-core`](https://packagist.org/packages/watchdiff-labs/watchdiff-core) | Available |
-| Symfony | [`watchdiff-core`](https://packagist.org/packages/watchdiff-labs/watchdiff-symfony) | Available |
-| Laravel | [`watchdiff-core`](https://packagist.org/packages/watchdiff-labs/watchdiff-laravel) | Available |
+| Symfony | [`watchdiff-symfony`](https://packagist.org/packages/watchdiff-labs/watchdiff-symfony) | Available |
+| Laravel | [`watchdiff-laravel`](https://packagist.org/packages/watchdiff-labs/watchdiff-laravel) | Available |
 | Docker | `watchdifflabs/watchdiff` | Planned |
 
 ## Installation

@@ -6,15 +6,15 @@ WatchDiff Labs provides developer tools for integrating WatchDiff across languag
 
 ## Packages
 
-| Ecosystem | Package | Status |
-|---|---|---|
-| Python | [`watchdiff-core`](https://pypi.org/project/watchdiff-core/) | Available |
-| JavaScript / TypeScript | [`watchdiff-core`](https://www.npmjs.com/package/watchdiff-core) | Available |
-| PHP | [`watchdiff-core`](https://packagist.org/packages/watchdiff-labs/watchdiff-core) | Available |
-| Symfony | [`watchdiff-symfony`](https://packagist.org/packages/watchdiff-labs/watchdiff-symfony) | Available |
-| Laravel | [`watchdiff-laravel`](https://packagist.org/packages/watchdiff-labs/watchdiff-laravel) | Available |
-| Rust | Crates.io | In development  |
-| Docker | `watchdifflabs/watchdiff` | In development |
+| Ecosystem | Package | Status | Downloads |
+|---|---|---|---|
+| Python | [`watchdiff-core`](https://pypi.org/project/watchdiff-core/) | Available | [![PyPI total downloads](https://static.pepy.tech/badge/watchdiff-core)](https://pypi.org/project/watchdiff-core/) |
+| JavaScript / TypeScript | [`watchdiff-core`](https://www.npmjs.com/package/watchdiff-core) | Available | [![npm total downloads](https://badgen.net/npm/dt/watchdiff-core?label=downloads)](https://www.npmjs.com/package/watchdiff-core) |
+| PHP | [`watchdiff-core`](https://packagist.org/packages/watchdiff-labs/watchdiff-core) | Available | [![Packagist downloads](https://img.shields.io/packagist/dt/watchdiff-labs/watchdiff-core?label=downloads)](https://packagist.org/packages/watchdiff-labs/watchdiff-core) |
+| Symfony | [`watchdiff-symfony`](https://packagist.org/packages/watchdiff-labs/watchdiff-symfony) | Available | [![Packagist downloads](https://img.shields.io/packagist/dt/watchdiff-labs/watchdiff-symfony?label=downloads)](https://packagist.org/packages/watchdiff-labs/watchdiff-symfony) |
+| Laravel | [`watchdiff-laravel`](https://packagist.org/packages/watchdiff-labs/watchdiff-laravel) | Available | [![Packagist downloads](https://img.shields.io/packagist/dt/watchdiff-labs/watchdiff-laravel?label=downloads)](https://packagist.org/packages/watchdiff-labs/watchdiff-laravel) |
+| Rust | Crates.io | In development | - |
+| Docker | `watchdifflabs/watchdiff` | In development | - |
 
 ## Installation
 

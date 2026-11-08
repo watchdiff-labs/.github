@@ -13,7 +13,7 @@ WatchDiff Labs provides developer tools for integrating WatchDiff across languag
 | PHP | [`watchdiff-core`](https://packagist.org/packages/watchdiff-labs/watchdiff-core) | Available | [![Packagist downloads](https://img.shields.io/packagist/dt/watchdiff-labs/watchdiff-core?label=downloads)](https://packagist.org/packages/watchdiff-labs/watchdiff-core) |
 | Symfony | [`watchdiff-symfony`](https://packagist.org/packages/watchdiff-labs/watchdiff-symfony) | Available | [![Packagist downloads](https://img.shields.io/packagist/dt/watchdiff-labs/watchdiff-symfony?label=downloads)](https://packagist.org/packages/watchdiff-labs/watchdiff-symfony) |
 | Laravel | [`watchdiff-laravel`](https://packagist.org/packages/watchdiff-labs/watchdiff-laravel) | Available | [![Packagist downloads](https://img.shields.io/packagist/dt/watchdiff-labs/watchdiff-laravel?label=downloads)](https://packagist.org/packages/watchdiff-labs/watchdiff-laravel) |
-| Rust | Crates.io | In development | - |
+| Rust | [`watchdiff-core`](https://crates.io/crates/watchdiff-core) | Available | [![crates.io downloads](https://img.shields.io/crates/d/watchdiff-core?label=downloads)](https://crates.io/crates/watchdiff-core) |
 | Docker | `watchdifflabs/watchdiff` | In development | - |
 
 ## Installation

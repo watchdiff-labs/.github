@@ -36,6 +36,11 @@ npm install watchdiff-core
 composer require watchdiff-labs/watchdiff-core
 ```
 
+### Rust
+```bash
+cargo install watchdiff-core
+```
+
 ## Docker
 
 ```bash
